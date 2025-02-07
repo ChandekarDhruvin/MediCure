@@ -1,0 +1,13 @@
+prefix=d:/Comapy/Projects/CureNow/.conda/Library
+exec_prefix=d:/Comapy/Projects/CureNow/.conda/Library
+libdir=d:/Comapy/Projects/CureNow/.conda/Library/lib
+sharedlibdir=d:/Comapy/Projects/CureNow/.conda/Library/lib
+includedir=d:/Comapy/Projects/CureNow/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
