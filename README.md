@@ -86,7 +86,7 @@ Feel free to **fork** this repository and submit pull requests. Contributions ar
 
 For any queries, reach out to me at:  
 📧 **Email**: dhruvinchandekar@gmail.com  
-🔗 **GitHub**: [your-username](https://github.com/your-username)  
+🔗 **GitHub**: https://github.com/ChandekarDhruvin
 
 ---
 
