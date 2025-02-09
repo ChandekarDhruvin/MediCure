@@ -1,7 +1,7 @@
 
 # 🏥 Medicure - AI-Powered Medical Chatbot  
 
-**Meddicure** is an AI-powered medical chatbot that extracts information from medical books in **PDF format**, stores the data in **Pinecone**, and uses **Gemini LLM** to provide intelligent responses. The chatbot retains previous conversations even after a page refresh, thanks to **PostgreSQL** for chat history storage.
+**Medicure** is an AI-powered medical chatbot that extracts information from medical books in **PDF format**, stores the data in **Pinecone**, and uses **Gemini LLM** to provide intelligent responses. The chatbot retains previous conversations even after a page refresh, thanks to **PostgreSQL** for chat history storage.
 
 ---
 
@@ -29,8 +29,8 @@
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/Meddicure.git
-cd Meddicure
+git clone https://github.com/ChandekarDhruvin/MediCure
+cd Medicure
 ```
 
 ### 2️⃣ Install Dependencies  
